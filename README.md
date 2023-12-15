@@ -1,2 +1,3 @@
 # tic-tac-toe_ver-5x5
-نسخه جوپیتر نوت بوک
+♨️ This is initiall commit
+This is a simple and cleaned verion, written in 'Python'
